@@ -3,11 +3,20 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/E:/VI%20CICLO/MASCOTA%20VETERINARIA/VeterinariaMascotaA/web/WEB-INF/web.xml</file>
-            <file>file:/E:/VI%20CICLO/MASCOTA%20VETERINARIA/VeterinariaMascotaA/web/index.xhtml</file>
-            <file>file:/E:/VI%20CICLO/MASCOTA%20VETERINARIA/VeterinariaMascotaA/src/java/Interfaces/IMascota.java</file>
-            <file>file:/E:/VI%20CICLO/MASCOTA%20VETERINARIA/VeterinariaMascotaA/src/java/DAO/MascotaDao.java</file>
-            <file>file:/E:/VI%20CICLO/MASCOTA%20VETERINARIA/VeterinariaMascotaA/src/java/managedBean/mascotaBean.java</file>
+            <file>file:/F:/Mascota-master/src/java/managedBean/mascotaBean.java</file>
+            <file>file:/F:/Mascota-master/src/java/Prueba/Ejemplo06.java</file>
+            <file>file:/F:/Mascota-master/src/java/Prueba/Ejemplo02.java</file>
+            <file>file:/F:/Mascota-master/src/java/hibernate.cfg.xml</file>
+            <file>file:/F:/Mascota-master/nbproject/build-impl.xml</file>
+            <file>file:/F:/Mascota-master/src/java/Prueba/Ejemplo04.java</file>
+            <file>file:/F:/Mascota-master/src/java/Entidades/Mascota.hbm.xml</file>
+            <file>file:/F:/Mascota-master/src/java/Entidades/Mascota.java</file>
+            <file>file:/F:/Mascota-master/src/java/Prueba/Ejemplo01.java</file>
+            <file>file:/F:/Mascota-master/src/java/hibernate.reveng.xml</file>
+            <file>file:/F:/Mascota-master/src/java/DAO/MascotaDao.java</file>
+            <file>file:/F:/Mascota-master/src/java/Prueba/Ejemplo03.java</file>
+            <file>file:/F:/Mascota-master/src/java/Prueba/Ejemplo05.java</file>
+            <file>file:/F:/Mascota-master/src/java/Interfaces/IMascota.java</file>
         </group>
     </open-files>
 </project-private>
